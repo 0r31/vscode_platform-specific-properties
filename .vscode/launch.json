@@ -13,6 +13,9 @@
       ],
       "program": "${workspaceFolder}\\index.js",
       "windows": {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch Program",
         "program": "${workspaceFolder}\\index.js"
       }
     }
